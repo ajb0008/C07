@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_486dd1cb",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-27T00:18:37Z",
+      "side": 1,
+      "message": "add class comment to say what this is",
+      "revId": "2cb5a9c282b9dd66a6129eddf49be24b801c9b74",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_e87bdd89",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-27T00:18:37Z",
+      "side": 1,
+      "message": "Change this to 14 traders",
+      "revId": "2cb5a9c282b9dd66a6129eddf49be24b801c9b74",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
