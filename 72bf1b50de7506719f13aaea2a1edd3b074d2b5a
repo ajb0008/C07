@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_88434941",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-27T00:18:07Z",
+      "side": 1,
+      "message": "consider changing these names so you dont need comments",
+      "revId": "72bf1b50de7506719f13aaea2a1edd3b074d2b5a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_68408d34",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-27T00:18:07Z",
+      "side": 1,
+      "message": "Remove long comment blocks",
+      "revId": "72bf1b50de7506719f13aaea2a1edd3b074d2b5a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
