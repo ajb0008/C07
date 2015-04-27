@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_a89a856b",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-27T01:55:14Z",
+      "side": 1,
+      "message": "Could extract this into a function named something like addBuyOrder or addBuyOrderToOrderBook.",
+      "range": {
+        "startLine": 34,
+        "startChar": 8,
+        "endLine": 40,
+        "endChar": 9
+      },
+      "revId": "4723d4180bdba4c10ac141d1937f0ea4a5d3ba53",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_088bd91f",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-27T01:55:14Z",
+      "side": 1,
+      "message": "Could extract this into a function named something like addSellOrder or addSellOrderToOrderBook.",
+      "range": {
+        "startLine": 40,
+        "startChar": 10,
+        "endLine": 46,
+        "endChar": 9
+      },
+      "revId": "4723d4180bdba4c10ac141d1937f0ea4a5d3ba53",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_e88f5d28",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-27T01:55:14Z",
+      "side": 1,
+      "message": "Remove dead code",
+      "range": {
+        "startLine": 95,
+        "startChar": 8,
+        "endLine": 102,
+        "endChar": 43
+      },
+      "revId": "4723d4180bdba4c10ac141d1937f0ea4a5d3ba53",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_488151fa",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-27T01:55:14Z",
+      "side": 1,
+      "message": "Could extract into a function called addValidBuyOrders.",
+      "range": {
+        "startLine": 223,
+        "startChar": 8,
+        "endLine": 227,
+        "endChar": 9
+      },
+      "revId": "4723d4180bdba4c10ac141d1937f0ea4a5d3ba53",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
