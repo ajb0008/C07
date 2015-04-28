@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_6ee7f0ac",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1004736
+      },
+      "writtenOn": "2015-04-28T14:45:21Z",
+      "side": 1,
+      "message": "Make a comment for the class giving a brief description of what it does.",
+      "revId": "886cee8d97ccd8c1847ed87ef66e442e0117181a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_2e98581b",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1004736
+      },
+      "writtenOn": "2015-04-28T14:45:21Z",
+      "side": 1,
+      "message": "put a short comment on placeNewOrder describing what it does.",
+      "revId": "886cee8d97ccd8c1847ed87ef66e442e0117181a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_6e9ed008",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 1004736
+      },
+      "writtenOn": "2015-04-28T14:45:21Z",
+      "side": 1,
+      "message": "comment for tradePerformed describing what it does.",
+      "revId": "886cee8d97ccd8c1847ed87ef66e442e0117181a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
