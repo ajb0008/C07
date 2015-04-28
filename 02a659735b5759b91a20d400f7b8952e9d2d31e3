@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_e44781ba",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004737
+      },
+      "writtenOn": "2015-04-28T17:08:17Z",
+      "side": 1,
+      "message": "Variable name is meaningless - change to be more descriptive",
+      "revId": "02a659735b5759b91a20d400f7b8952e9d2d31e3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_c44405b9",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004737
+      },
+      "writtenOn": "2015-04-28T17:08:17Z",
+      "side": 1,
+      "message": "Variable name is meaningless - change to be more descriptive",
+      "revId": "02a659735b5759b91a20d400f7b8952e9d2d31e3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
